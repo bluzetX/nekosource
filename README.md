@@ -27,7 +27,7 @@ You only need the Rust toolchain. No other prerequisites.
 
 ```bash
 git clone https://github.com/OctoBanon-Main/nekosource.git
-cd nekosource-rs
+cd nekosource
 cargo build --release
 ```
 
