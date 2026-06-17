@@ -26,7 +26,7 @@ A lightweight, cross-platform desktop Git client — written in pure Rust.
 You only need the Rust toolchain. No other prerequisites.
 
 ```bash
-git clone https://github.com/OctoBanon-Main/nekosource-rs.git
+git clone https://github.com/OctoBanon-Main/nekosource.git
 cd nekosource-rs
 cargo build --release
 ```
