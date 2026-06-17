@@ -1,0 +1,12 @@
+x64
+repos
+repo
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Added by cargo
+
+/target
+
+Cargo.lock
