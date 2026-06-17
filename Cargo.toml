@@ -1,5 +1,5 @@
 [package]
-name = "nekosource-rs"
+name = "nekosource"
 description = "A lightweight, cross-platform desktop Git client — written in pure Rust."
 license = "MIT"
 version = "0.1.0"
